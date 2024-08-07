@@ -11,7 +11,7 @@ Welcome to the documentation for `architech.sh`. This document provides informat
 6. [License](#License)
 
 ## Introduction
-`architech.sh` is a shell script project designed to customize a smartphone and computer with the specific device.
+`architech.sh` is a shell script project designed to customize a smartphone and computer with the selected device and specific details. It automates the setup and configuration proceses to tailor the device's environment to the user's preferences and requirements.
 
 ## Installation
 To install `architech.sh`, follow these steps:
