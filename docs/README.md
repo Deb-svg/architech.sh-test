@@ -6,9 +6,8 @@ Welcome to the documentation for `architech.sh`. This document provides informat
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Directory Structure](#directory-structure)
-5. [Contributing](#contributing)
-6. [License](#License)
+4. [Contributing](#contributing)
+5. [License](#License)
 
 ## Introduction
 `architech.sh` is a shell script project designed to customize a smartphone and computer with the selected device and specific details. It automates the setup and configuration proceses to tailor the device's environment to the user's preferences and requirements.
@@ -29,3 +28,24 @@ To install `architech.sh`, follow these steps:
    ```
 
 ## Usage
+1. Customizing a smartphone or computer:
+   ```sh
+   ./src/main.sh smartphone
+   ./src/main.sh computer
+   ```
+
+Provide specific details and options that can be customized:
+- Smartphone Customization:
+  * Network settings
+  * Apllication installation
+  * System preferences
+- Computer Customization:
+  * Software installation
+  * System configurations
+  * User preferences
+
+## Contributing
+We welcome contributions to `architech.sh`.
+
+## License
+This project is licensed under the [Apache 2.0 License](LICENSE)
