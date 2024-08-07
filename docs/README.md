@@ -28,7 +28,12 @@ To install `architech.sh`, follow these steps:
    ```
 
 ## Usage
-1. Customizing a smartphone or computer:
+1. To use `architech.sh`, run the following command:
+   ```sh
+   ./src/main.sh
+   ```
+
+2. Customizing a smartphone or computer:
    ```sh
    ./src/main.sh smartphone
    ./src/main.sh computer
