@@ -4,7 +4,7 @@ Welcome to the documentation for `architech.sh`. This document provides informat
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Installation(#installation)
+2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Directory Structure](#directory-structure)
 5. [Contributing](#contributing)
