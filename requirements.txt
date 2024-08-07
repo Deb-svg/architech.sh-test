@@ -1,0 +1,13 @@
+# System packages
+adb
+fastboot
+scrcpy
+curl
+vim
+git
+htop
+code
+docker-ce
+docker-ce-cli
+containerd.io
+ufw
